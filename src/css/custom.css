@@ -1,0 +1,82 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+ @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #ce163e;
+  --ifm-color-primary-dark: #8f1829;
+  --ifm-color-primary-darker: #8a1627;
+  --ifm-color-primary-darkest: #79111f;
+  --ifm-color-primary-light: #a02032;
+  --ifm-color-primary-lighter: #a32336;
+  --ifm-color-primary-lightest: #ab293c;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+
+.textured-bg {
+  background-color: #c03755; /* Base color */
+  background-image: url('/img/background2.png');
+  background-blend-mode: overlay;
+}
+
+
+.two-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+
+
+
+
+.markdown p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.navbar__title{
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5rem;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hero__title {
+  font-family: 'Indie Flower', cursive;
+  font-weight: 600;
+  font-size: 3.5rem;
+  font-style: normal;
+}
+
+.markdown h1 {
+  font-family: 'Indie Flower', cursive;
+  color: var(--ifm-color-primary-darker);
+  font-weight: 600;
+  font-size: 3.5rem;
+}
+
+.markdown h2 {
+  font-family: 'Indie Flower', cursive;
+  color: var(--ifm-color-primary);
+}
