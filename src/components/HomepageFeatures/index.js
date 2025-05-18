@@ -6,7 +6,7 @@ const FeatureList = [
 
   {
     title: 'Dinamització d’espais',
-    imageUrl: '/img/education9.png',
+    imageUrl: '/cosiguetes-web/img/education9.png',
     description: (
       <>
         Xerrades i tallers en petits grups, creant espais de reflexió i diàleg enfocats en promoure que els infants i joves visquin des de la salut i l’autocura la seva sexualitat.
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Educació',
-    imageUrl: '/img/education.png',
+    imageUrl: '/cosiguetes-web/img/education.png',
     description: (
       <>
         Tallers i xerrades destinats a l'alumnat dels cicles d'educació infantil, primària i secundària, adaptats a les necessitats de cada etapa madurativa.       
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Acompanyament i celebracions',
-    imageUrl: '/img/education12.png',
+    imageUrl: '/cosiguetes-web/img/education12.png',
     description: (
       <>
         Propostes adaptades a grups de confiança (familiars o d’amics) per acompanyar i celebrar juntes els canvis vitals com la menàrquia.

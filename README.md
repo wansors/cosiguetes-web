@@ -3,4 +3,4 @@
 ## Deploy
 
 npm run build
-GIT_USER=wansors yarn deploy
+USE_SSH=true GIT_USER=wansors yarn deploy
