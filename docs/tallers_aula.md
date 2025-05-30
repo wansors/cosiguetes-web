@@ -6,7 +6,7 @@ Es tracta d'un programa integral d’educació sexual i afectiva destinat a les 
 ## Etapa d’educació infantil
 ### Néixer i créixer
 - Destinat a l'alumnat de 6è d’EI
-- ⏳ Durada 60 minuts.
+- ⏳ 2 sessions de 50 minuts.
 
 Es tracta d’un taller vivencial on els infants podran experimentar i reflexionar sobre el propi cos per coneixer-lo i saber com tindre’n cura.
 Una proposta per explorar les diferents etapes del desenvolupament dels infants des del naixement. 

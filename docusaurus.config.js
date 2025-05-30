@@ -97,9 +97,9 @@ const config = {
           },          
           {
             type: 'doc',
-            docId: 'divulgacio',
+            docId: 'agenda',
             position: 'right',
-            label: 'Divulgació',
+            label: 'Agenda',
           }
         ],
       },
