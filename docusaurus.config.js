@@ -91,6 +91,12 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'acompanyament_i_celebracions',
+            position: 'right',
+            label: 'Celebracions',
+          },          
+          {
+            type: 'doc',
             docId: 'divulgacio',
             position: 'right',
             label: 'Divulgació',

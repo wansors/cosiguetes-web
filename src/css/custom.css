@@ -80,3 +80,24 @@
   font-family: 'Indie Flower', cursive;
   color: var(--ifm-color-primary);
 }
+
+.feature-link {
+  text-decoration: none !important;
+  color: inherit !important;
+  background: none !important;
+  border: none !important;
+  outline: none !important;
+  cursor: pointer !important;
+}
+
+/* Removes hover/focus/active states */
+.feature-link:hover,
+.feature-link:focus,
+.feature-link:active,
+.feature-link:visited {
+  text-decoration: none !important;
+  color: inherit !important;
+  background: none !important;
+  border: none !important;
+  outline: none !important;
+}

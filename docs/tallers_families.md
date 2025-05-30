@@ -29,16 +29,8 @@ Es tracta d'espais per poder aprendre i compartir en família, on treballarem ju
 
 ### Acompanyar la sexualitat de les nostres filles i fills
 - Proposta conjunta per famílies i infants de 3-7 anys.
-- ⏳ Durada: 2 sessions de 2h de durada cadascuna.
+- ⏳ Durada: 2 sessions* de 1.5h de durada cadascuna.
 
-Seguint la línia de la xerrada d’acompanyar la sexualitat infantil amb filletes i fillets de 3 a 7 anys, aquesta proposta està pensada per a que amb un grup de màxim 12 famílies (infants i adults) poguem explorar juntes la sexualitat en l’etapa d’infantil. Es tracta d’una xerrada-taller amb una primera part d'introducció i reflexió per a les famílies mentre els fillets i filletes juguen i una segona part conjunta on treballarem amb recursos com jocs, conta contes i manualitats per abordar l’educació sexual amb els nostres fills i filles. Aquest taller està pensat per aquelles famílies que tenen dubtes o que senten que és difícil educar en la sexualitat, ja sigui perquè els manca informació, tenen prejudicis, vergonya, idees i creences limitants, por de no tenir respostes o dificultats per admetre que els fills i les filles són éssers sexuats. Amb aquesta xerrada-taller, prendrem consciència de que tots els pares i mares tenim els requisits fonamentals per fer una educació sexual conscient i respectuosa des de casa. 
+Seguint la línia de la xerrada d’acompanyar la sexualitat infantil amb filletes i fillets de 3 a 7 anys, aquesta proposta està pensada per a que amb un grup de màxim 12 famílies (infants i adults) poguem explorar juntes la sexualitat en l’etapa d’infantil. Es tracta d’una xerrada-taller amb una primera part d'introducció i reflexió per a les famílies mentre els fillets i filletes juguen i una segona part conjunta on treballarem amb recursos com jocs, conta contes i manualitats per abordar l’educació sexual amb els nostres fills i filles. Aquest taller està pensat per aquelles famílies que tenen dubtes o que senten que és difícil educar en la sexualitat, ja sigui perquè els manca informació, tenen prejudicis, vergonya, idees i creences limitants, por de no tenir respostes o dificultats per admetre que els fills i les filles són éssers sexuats. Amb aquesta xerrada-taller, prendrem consciència de que tots els pares i mares tenim els requisits fonamentals per fer una educació sexual conscient i respectuosa des de casa.
 
-
-### Benvinguda menàrquia
-- Proposta conjunta per mares i filles d’entre 9-16 anys.
-- ⏳ Durada: 3 sessions de 90 minuts cadascuna.
-
-
-Si tens una filla en aquesta etapa i et ve de gust compartir amb ella i les seves amigues un espai segur i familiar per donar la benvinguda a la menàrquia i donar valor a les primeres menstruacions, aquest taller és per vosaltres. Es tracta de 3 sessions amb propostes dinàmiques i pensades per a fer en grups reduïts on poder explorar i expressar-se amb llibertat, fomentar la comunicació i reforçar els vincles. En les diferents sessions, es facilitarà informació, materials i recursos per acompanyar els canvis físics, hormonals, psíquics, emocionals i relacionals que són propis de la pubertat i l’adolescència. 
-
-> La figura de la mare pot ser assimilable a una altra presència adulta de referència per la jove com una germana gran, cosina, tieta, àvia o amiga de la família. 
+> Primera sessió conjunta amb infants, segona sessió només adultes.
